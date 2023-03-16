@@ -22,7 +22,7 @@ function Header() {
                 <Link
                     href="https://www.papreact.com/universityofcode"
                     className="px-5 py-3 text-sm md:text-base bg-gray-900 text-[#f7ab0a] flex items-center rounded-full text-center "
-                >Sign up to the university of Code</Link>
+                >Contact :adeekotobiloba@gmail.com</Link>
             </div>
         </header>
     )
